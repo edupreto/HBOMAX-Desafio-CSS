@@ -1,0 +1,16 @@
+
+/* Under Construction - (projeto em Andamento) */
+
+.underConstruction h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+  }
+  
+  .divider {
+    width: 70%;
+    max-width: 700px;
+    height: 5px;
+    background: var(--divider-bg-color);
+  }
